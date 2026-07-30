@@ -64,8 +64,8 @@ The project is being extended with user authentication using JWT, donor search f
 
 ## 👩‍💻 Author
 
-**Diksha Verma**
+**Karunakar Sharma**
 
-GitHub: https://github.com/dikshaverma469
+GitHub: https://github.com/karunakarsharma356
 
-LinkedIn: https://www.linkedin.com/in/diksha-verma-b890ab294/
+LinkedIn: https://www.linkedin.com/in/karunakar-sharma-15b97621a
